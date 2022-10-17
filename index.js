@@ -1,1 +1,5 @@
-console.log("hello replit");
+function speech() {
+  console.log("hello replit");
+}
+
+speech()
